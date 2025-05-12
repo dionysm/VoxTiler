@@ -1,4 +1,5 @@
 # VoxTiler
+![VoxTiler](banner.svg)
 
 > [English Version](#english-version) | [Deutsche Version](#deutsche-version)
 
