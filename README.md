@@ -24,7 +24,7 @@ A Python tool for splitting MagicaVoxel (.vox) files into smaller chunks and con
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/voxtiler.git
+   git clone https://github.com/dionysm/VoxTiler.git
    cd voxtiler
    ```
 
@@ -89,7 +89,7 @@ Ein Python-Tool zum Aufteilen von MagicaVoxel (.vox) Dateien in kleinere Stücke
 
 1. Klone dieses Repository:
    ```
-   git clone https://github.com/deinbenutzername/voxtiler.git
+   git clone https://github.com/dionysm/VoxTiler.git
    cd voxtiler
    ```
 
